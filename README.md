@@ -118,7 +118,8 @@ Terminal 1:
     java Client
 
 
-    <p align="center">
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/Ds_Assignment/count.svg" alt="Repo Visitors" />
 </p>
     
